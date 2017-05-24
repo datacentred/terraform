@@ -46,7 +46,3 @@ variable "security_group_rule2" {
     description = "alow subnet 185.98.148.0/22"
     default     = "185.98.148.0/22"
 }
-variable "security_group_rule3" {
-    description = "alow subnet 87.127.171.48/29"
-    default     = "87.127.171.48/29"
-}
